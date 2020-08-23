@@ -16,7 +16,7 @@ class Sling{
      }
 
      attach(){
-        
+        this.body.bodyA=bodyA;
       
     }
 
